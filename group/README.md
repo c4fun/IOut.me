@@ -210,9 +210,3 @@
     目前也是自由职业
 
     我的项目是这个： http://www.iredmail.com 希望能和大家多交流
-
-33. Richard Liu
-    
-    Hi,大家好
-
-    测试转售前，目前业余撸code，弄点前段和Python，小菜级别，希望能和大家多交流。
